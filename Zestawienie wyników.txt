@@ -1,0 +1,14 @@
+Tablica uporz¹dkowana kopcowo dla 10000 elementow.
+Czas: 27ms
+
+Zwykla tablica dla 10000 elementow.
+Czas: 5232ms
+
+Kolejka STL dla 10000 elementow.
+Czas: 9ms
+
+Z pomiarów czasu poszczególnych implementacji kolejek, wynika:
+
+-Najwydajniejsze rozwi¹zanie oferuje biblioteka STL
+-Dzia³ania na stosie trwaj¹ krócej ni¿ dzia³ania na zwyk³ej tablicy.
+ Implementacja stosu zaoszczêdza wiêc zasoby komputera.

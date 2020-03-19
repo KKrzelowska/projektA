@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1539594628 source:c:\users\karo\desktop\stl\show_pq.cpp
+	"show_pq.h"
+
+1539594628 c:\users\karo\desktop\stl\show_pq.h
+	<queue>
+	<iostream>
+
+1539591028 source:c:\users\karo\desktop\projekt a\stl\show_pq.cpp
+	"show_pq.h"
+
+1539599002 c:\users\karo\desktop\projekt a\stl\show_pq.h
+	<queue>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
+1539607661 source:c:\users\karo\desktop\projekt a\stl\main.cpp
+	"show_pq.h"
+

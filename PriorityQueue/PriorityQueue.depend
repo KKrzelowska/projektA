@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1542624797 source:c:\users\karo\desktop\projekt a\priorityqueue\pq.cpp
+	"PQ.h"
+
+1540816879 c:\users\karo\desktop\projekt a\priorityqueue\pq.h
+	<vector>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1542624601 source:c:\users\karo\desktop\projekt a\priorityqueue\main.cpp
+	"PQ.h"
+

@@ -1,0 +1,2 @@
+Tablica uporządkowana kopcowo dla 10000 elementow.
+Czas: 27ms

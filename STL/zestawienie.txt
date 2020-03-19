@@ -1,0 +1,2 @@
+Kolejka STL dla 10000 elementow.
+Czas: 9ms

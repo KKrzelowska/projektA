@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1539594062 source:c:\users\karo\desktop\pq_heap\main.cpp
+	"PQ_heap.h"
+
+1539594062 c:\users\karo\desktop\pq_heap\pq_heap.h
+	<vector>
+	<iostream>
+
+1539594149 source:c:\users\karo\desktop\pq_heap\pq_heap.cpp
+	"PQ_heap.h"
+
+1540845180 source:c:\users\karo\desktop\projekt a\pq_heap\pq_heap.cpp
+	"PQ_heap.h"
+
+1540197490 c:\users\karo\desktop\projekt a\pq_heap\pq_heap.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<math.h>
+
+1540845000 source:c:\users\karo\desktop\projekt a\pq_heap\main.cpp
+	"PQ_heap.h"
+
